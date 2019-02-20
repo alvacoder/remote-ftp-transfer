@@ -10,7 +10,7 @@ Migrating data from one server to another is a very stressful process, especiall
 
 downloading your files from your old server to your local system and re-uploading on a new server will cost you a large data consumption and if your internet speed isn't jetfast you could spend days just to move files in between online servers.
 
-this snippet would come in handy, it works based on the file transfer protocol (FTP).
+this script would come in handy, it works based on the file transfer protocol (FTP).
 
 # Usage
 create an ftp account on your old server and note down the (server Ip or URL, and the ftp credentials you just created)
