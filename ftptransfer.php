@@ -3,7 +3,6 @@
 /***********
 Author: Adeniji Idris
 Github: https://github.com/realprinceviper
-Date: 19 Feb 2019
 ************/
 
 /*the following 2 lines are not mandatory but we keep it to 
