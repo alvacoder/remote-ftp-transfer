@@ -1,10 +1,8 @@
 <?php
 
 /***********
-Snippet: Server to Server file transfer using FTP
 Author: Adeniji Idris
 Github: https://github.com/realprinceviper
-Socials: @realprinceviper
 Date: 19 Feb 2019
 ************/
 
