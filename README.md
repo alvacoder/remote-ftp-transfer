@@ -26,7 +26,7 @@ Fill in the ftp credentials and the filename from the old server.
 Click on "Transfer File" and Voila!!!
 
 # Contributing
-Please feel free to fork this package and contribute by submitting a pull request to enhance the functionalities.
+Please feel free to fork this repo and contribute by submitting a pull request to enhance the functionalities.
 
 # How can i thank you?
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or Tech blogs? Spread the word!
