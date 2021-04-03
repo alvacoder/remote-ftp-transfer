@@ -31,6 +31,6 @@ Please feel free to fork this repo and contribute by submitting a pull request t
 # How can i thank you?
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or Tech blogs? Spread the word!
 
-Don't forget to follow me on <a href = "https://instagram.com/realprinceviper">Instagram</a>!
+Don't forget to follow me on <a href = "https://instagram.com/alvacoder">Instagram</a>!
 
 Thanks!!! Adeniji Idris.
