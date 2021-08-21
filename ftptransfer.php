@@ -2,7 +2,7 @@
 
 /***********
 Author: Adeniji Idris
-Github: https://github.com/realprinceviper
+Github: https://github.com/alvacoder
 ************/
 
 /*the following 2 lines are not mandatory but we keep it to 
